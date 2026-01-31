@@ -1,0 +1,7 @@
+{
+  "name": "CareerPulse AI Job Board",
+  "description": "An AI-driven job board and resume analysis tool that evaluates role alignment and provides expert feedback without altering resume structure.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
